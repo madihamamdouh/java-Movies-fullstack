@@ -1,4 +1,4 @@
-package dev.farhan.movieist.movies;
+package dev.madiham.movies;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
